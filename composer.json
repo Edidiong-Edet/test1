@@ -2,6 +2,16 @@
     "name": "something/something",
     "description": "A description of my project",
     "type": "project",
+    "require": {
+        "php": ">=5.5.9",
+        "doctrine/cache": "1.4.*",
+        "phpoffice/phppresentation": "dev-master",
+        "phpoffice/phpword": "v0.13.*"
+      },
+    "require-dev": {
+        "phpunit/phpunit": "4.3.*",
+        "maximebf/debugbar": ">=1.0.0"
+    }
     
 }
 
