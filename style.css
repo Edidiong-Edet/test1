@@ -1,0 +1,11 @@
+.side{
+    transition: 850ms;
+}
+
+.motion{
+     width:0px;
+     max-width: 0px;
+     padding:0px;
+    transition: 850ms;
+    
+}
